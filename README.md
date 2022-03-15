@@ -1,1 +1,1 @@
-# job4j_spring
+Репозиторий job4j_spring для обучению блока Spring. DI. курса Job4j
